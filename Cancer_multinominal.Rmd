@@ -12,9 +12,7 @@ output:
     toc_float:
       collapsed: true
       smooth_scroll: true
-  github_document:
-    toc: true
-    toc_depth: 4
+    keep_md: false  
 ---
 
 ```{r setup, include=FALSE}

@@ -198,13 +198,8 @@ cd naive-bayes-knn-ml-comparison
 
 **Autor:** Alejandro Figueroa Rojas  
 **GitHub:** [@alej2andro](https://github.com/alej2andro)  
+**Email:** [alejandro.figueroa.rojas@gmail.com](mailto:alejandro.figueroa.rojas@gmail.com)
 **Proyecto:** [Ver Análisis Completo](https://alej2andro.github.io/Clasificacion-Cancer-Mama-Naive-Bayes-Multinomial-vs-KNN/)
-
----
-
-## 📜 **Licencia**
-
-Este proyecto está bajo la Licencia MIT - ver el archivo [LICENSE](LICENSE) para detalles.
 
 ---
 
